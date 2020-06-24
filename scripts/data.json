@@ -139,7 +139,7 @@
         "name": "视觉Me",
         "img": "https://cdn.jsdelivr.net/gh/5iux/uploads/pic/20200427100921.png",
         "desc": "视觉中国设计师社区",
-        "url": "http://shijue.me/community/rating"
+        "url": "https://shijue.me/community/rating"
       }
     ]
   },
@@ -149,9 +149,9 @@
     "categories": [
       {
         "name": "风小词影院",
-        "img": "http://fengxiaoci.cn/template/conch/asset/img/logo_black.png",
+        "img": "https://fengxiaoci.cn/template/conch/asset/img/logo_black.png",
         "desc": "像风一样自由~",
-        "url": "http://fengxiaoci.cn"
+        "url": "https://fengxiaoci.cn"
       }
     ]
   },
