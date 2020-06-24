@@ -1,0 +1,50 @@
+<div class="sidebar-menu toggle-others fixed">
+    <div class="sidebar-menu-inner">
+        <header class="logo-env">
+            <!-- logo -->
+            <div class="logo">
+                <a href="index.html" class="logo-expanded">
+                    <img src="../assets/images/logo.png" width="178" alt="" />
+                </a>
+                <a href="index.html" class="logo-collapsed">
+                    <img src="../assets/images/logo-icon.png" width="40" alt="" />
+                </a>
+            </div>
+            <div class="mobile-menu-toggle visible-xs">
+                <a href="#" data-toggle="user-info-menu">
+                    <i class="linecons-cog"></i>
+                </a>
+                <a href="#" data-toggle="mobile-menu">
+                    <i class="fa-bars"></i>
+                </a>
+            </div>
+        </header>
+        <ul id="main-menu" class="main-menu">
+            <% data.forEach(menu => { %>
+                <li>
+                    <% if (menu.sub_category) { %>
+                        <a >
+                            <i class="<%=menu.category_icon%>"  ></i>
+                            <span class="title"><%= menu.category_title %> </span>
+
+                        </a>
+                        <ul>
+                            <% menu.sub_category.forEach(sub => { %>
+                                <li>
+                                    <a href="#<%= sub.category_title %>" class="smooth">
+                                        <span class="title"><%= sub.category_title %> </span>
+                                    </a>
+                                </li>                                 
+                            <% }) %>
+                        </ul>    
+                    <% }else{ %>
+                        <a href="#<%= menu.category_title %>" class="smooth">
+                            <i class="<%=menu.category_icon%>"  ></i>
+                            <span class="title"><%= menu.category_title %> </span>
+                        </a>
+                    <% } %>
+                </li>             
+            <% }) %>
+        </ul>
+    </div>
+</div>
