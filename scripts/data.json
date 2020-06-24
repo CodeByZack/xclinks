@@ -239,6 +239,12 @@
             "url": "https://zh.javascript.info"
           },
           {
+            "name": "ES6 入门教程",
+            "img": "https://es6.ruanyifeng.com/images/cover_thumbnail_3rd.jpg",
+            "desc": "《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。",
+            "url": "https://es6.ruanyifeng.com/"
+          },
+          {
             "name": "TypeScript 入门教程",
             "img": "https://cdn.docschina.org/static/media/typescript.9e8bfce4.svg",
             "desc": "从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。",
