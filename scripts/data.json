@@ -64,12 +64,6 @@
     "category_icon": "fa fa-gamepad",
     "categories": [
       {
-        "name": "贪吃蛇",
-        "img": "https://i.loli.net/2020/06/09/uRVKHX7kl8sq1GJ.png",
-        "desc": "在线玩贪吃蛇",
-        "url": "https://playsnake.org"
-      },
-      {
         "name": "小霸王",
         "img": "https://i.loli.net/2020/06/06/eAN4xzBnG8VoQgL.png",
         "desc": "小霸王，其乐无穷。童年满满的回忆！",
@@ -86,6 +80,12 @@
         "img": "https://i.loli.net/2020/05/29/5pvNJQHs2MIwlFT.png",
         "desc": "在线版太鼓达人，可以双人联机",
         "url": "https://taiko.bui.pm"
+      },
+      {
+        "name": "贪吃蛇",
+        "img": "https://i.loli.net/2020/06/09/uRVKHX7kl8sq1GJ.png",
+        "desc": "在线玩贪吃蛇",
+        "url": "https://playsnake.org"
       }
     ]
   },
