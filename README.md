@@ -16,6 +16,7 @@ json文件在`scripts/data.json`。请参展该格式添加。
 
 修改完json，请运行`npm run build`。
 
+
 ### 部署
 
 该项目最终也只会生成一个Html文件，部署可参考原项目，很多部署方法。
