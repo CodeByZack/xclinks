@@ -56,6 +56,12 @@
         "desc": "高清图片免费分享社区.",
         "img": "https://cdn.jsdelivr.net/gh/5iux/dyimg/web/2018/06/3642382889.png",
         "url": "https://pixabay.com/"
+      },
+      {
+        "name": "免版权图片",
+        "desc": "一键搜索多家免版权图库，再也不用担心商用图片侵权了.",
+        "img": "https://www.logosc.cn/img/logo-icons/so.svg",
+        "url": "https://www.logosc.cn/so/"
       }
     ]
   },
