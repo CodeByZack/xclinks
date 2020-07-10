@@ -26,6 +26,12 @@
         "desc": "强大的网页数据提取工具。",
         "img": "../assets/images/logos/55mm.png",
         "url": "https://temme.js.org/"
+      },
+      {
+        "name": "前端资源分享",
+        "desc": "前端资源分享网-专注于前端资源的分享网站-一个专注于前端资源分享的站点！",
+        "img": "http://qdzyfx.com/wp-content/uploads/2020/07/1594279002-825cf6895332393.png",
+        "url": "http://qdzyfx.com/"
       }
     ]
   },
