@@ -4,34 +4,34 @@
     "category_icon": "fa fa-star-o",
     "categories": [
       {
-        "name": "语雀",
-        "desc": "「语雀」是一个「专业的云端知识库」，孵化自 蚂蚁金服 ，是 体验科技 理念下的一款创新产品，已是 10 万阿里员工进行文档编写、知识沉淀的标配。",
-        "img": "https://gw.alipayobjects.com/zos/rmsportal/XuVpGqBFxXplzvLjJBZB.svg",
-        "url": "https://www.yuque.com/"
+        "name": "群晖DSM",
+        "desc": "DiskStation Manager (DSM) 是一款专门为 Synology 产品设计的网页界面操作系统。",
+        "img": "./assets/images/DiskStationManager.png",
+        "url": "https://nas.zackdk.com/"
       },
       {
-        "name": "Vercel",
-        "desc": "专门做前端部署的网站，自带CDN，本站点就是用这个进行部署的。",
-        "img": "https://vercel.com/api/www/avatar/?u=evilrabbit&s=180",
-        "url": "https://vercel.com/"
+        "name": "Virtual Machine Manager",
+        "desc": "可以快速了解虚拟化集群的当前状态。将显示其主机、虚拟机和存储资源出现的任何错误，以帮助您保持集群的正常工作",
+        "img": "../assets/images/vmm.jpg",
+        "url": "https://nas.zackdk.com/vmm"
       },
       {
-        "name": "DesignEvo",
-        "desc": "只需几分钟，你就能轻松制作出独一无二的Logo设计。",
-        "img": "data:image/png;base64,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",
-        "url": "https://www.designevo.com/"
+        "name": "Synology Photos",
+        "desc": "创建相册，珍藏宝贵时刻，分享您精心拍摄的作品，并安全地存储在 Synology NAS 上",
+        "img": "../assets/images/SynologyPhotos.png",
+        "url": "https://photo.zackdk.com/"
       },
       {
-        "name": "Temme",
-        "desc": "强大的网页数据提取工具。",
-        "img": "../assets/images/logos/55mm.png",
-        "url": "https://temme.js.org/"
+        "name": "Synology Drive",
+        "desc": "一款全方位的文件管理、共享和同步解决方案",
+        "img": "../assets/images/SynologyDrive.png",
+        "url": "https://pan.zackdk.com/"
       },
       {
-        "name": "风小词影院",
-        "img": "https://fengxiaoci.cn/template/conch/asset/img/logo_black.png",
-        "desc": "像风一样自由~",
-        "url": "https://fengxiaoci.cn"
+        "name": "Emby",
+        "img": "../assets/images/emby.png",
+        "desc": "Emby 家庭影院~",
+        "url": "https://emby.zackdk.com"
       }
     ]
   },
@@ -152,18 +152,6 @@
         "img": "https://cdn.jsdelivr.net/gh/5iux/uploads/pic/20200427100921.png",
         "desc": "视觉中国设计师社区",
         "url": "https://shijue.me/community/rating"
-      }
-    ]
-  },
-  {
-    "category_title": "免VIP影视",
-    "category_icon": "fa fa-video-camera",
-    "categories": [
-      {
-        "name": "风小词影院",
-        "img": "https://fengxiaoci.cn/template/conch/asset/img/logo_black.png",
-        "desc": "像风一样自由~",
-        "url": "https://fengxiaoci.cn"
       }
     ]
   },
