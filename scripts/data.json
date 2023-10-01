@@ -13,7 +13,7 @@
         "name": "Virtual Machine Manager",
         "desc": "可以快速了解虚拟化集群的当前状态。将显示其主机、虚拟机和存储资源出现的任何错误，以帮助您保持集群的正常工作",
         "img": "../assets/images/vmm.jpg",
-        "url": "https://nas.zackdk.com/vmm"
+        "url": "https://vmm.zackdk.com/"
       },
       {
         "name": "Synology Photos",
